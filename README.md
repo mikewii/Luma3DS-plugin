@@ -11,7 +11,7 @@ Once it booted go to rosalina menu, by default <kbd>L+Down+Select</kbd> and set 
 In game you can press <kbd>Select</kbd> to access plugin menu.
 
 ## Codes
-There are Clock and FPS counter OSD callbacks available for any game.
+There are Clock and FPS counter OSD callbacks available for any game. \
 This plugin also contain codes for MH4U and MHXX.
 
 MH4U:
