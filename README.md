@@ -1,4 +1,5 @@
 # Installation
+Grab files at https://github.com/mikewii/Luma-plugin/releases
 - boot.firm path: `/`
 - default.3gx paths:
 1. `/`
