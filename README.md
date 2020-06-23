@@ -4,6 +4,8 @@
 1. `/`
 2. `/luma/plugins` \
 Path 1 given higher priority on loading plugin.
+After this done, restart 3ds.
+Once it booted go to rosalina menu, by default `L + DpadDown + Select` and set "Plugin Loader" to Enabled.
 
 ## Codes
 There are Clock and FPS counter OSD callbacks available for any game.
