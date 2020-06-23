@@ -1,7 +1,9 @@
 # Installation
 - boot.firm path: `/`
-- default.3gx path: `/luma/plugins` or `/`
-- path `/` for default.3gx given higher priority on loading plugin, dont mix them up
+- default.3gx paths:
+1. `/`
+2. `/luma/plugins` \
+Path 1 given higher priority on loading plugin.
 
 ## Codes
 There are Clock and FPS counter OSD callbacks available for any game.
