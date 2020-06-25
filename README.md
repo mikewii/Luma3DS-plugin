@@ -26,3 +26,6 @@ MHXX:
 - Unlock 60 fps
 - Set FOV - from default 55 to 60
 - Transmog for all - disables blademaster/gunner transmog restriction
+
+
+all codes exept `transmog` and `unlock 60 fps` are now toggleable.
