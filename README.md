@@ -1,31 +1,11 @@
 # Installation
-Grab files at https://github.com/mikewii/Luma-plugin/releases
+Grab latest release at https://github.com/mikewii/Luma-plugin/releases \
+Copy files:
 - boot.firm path: `/`
 - default.3gx paths:
 1. `/`
 2. `/luma/plugins` \
 Path 1 given higher priority on loading plugin.
 
-After this done, restart 3ds. \
-Once it booted go to rosalina menu, by default <kbd>L+Down+Select</kbd> and set "Plugin Loader" to Enabled. \
-In game you can press <kbd>Select</kbd> to access plugin menu.
-
-## Codes
-There are Clock and FPS counter OSD callbacks available for any game. \
-This plugin also contain codes for MH4U and MHXX.
-
-MH4U:
-- Keyboard on quest - not safe, may bug out if you keep keyboard open on quest finish
-- Render settings - disables FSAA and screen dithering, improve fps
-- Set FOV and set camera speed
-
-MHXX:
-- Crossplay - now toggleable, allow you to switch online between MHXX and MHGU
-- Keyboard on quest - not safe, may bug out if you keep keyboard open on quest finish
-- Render settings - disables FSAA and screen dithering, major increase in fps
-- Unlock 60 fps
-- Set FOV - from default 55 to 60
-- Transmog for all - disables blademaster/gunner transmog restriction
-
-
-all codes exept `transmog` and `unlock 60 fps` are now toggleable.
+After restart go to rosalina menu, by default <kbd>L+Down+Select</kbd> and set "Plugin Loader" to Enabled. \
+In game press <kbd>Select</kbd> to access plugin menu.
