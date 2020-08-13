@@ -41,7 +41,7 @@ Shows remaining time until fog from Smoke Bomb wipes out.
 ## Slowmo
 Enables Slow Motion in game. The smaller the distance, the slower the monster. 
 
-## Misc
+## Misc `Ω`
 * `OSD | FPS` shows framerate counter on upper screen.
 * `OSD | Clock` shows current time (not in-game quest time) on upper screen.
 * `OSD | Font Info` You can look on used font. Ain't that cool?
