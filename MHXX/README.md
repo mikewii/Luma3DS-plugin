@@ -38,9 +38,6 @@ If not close keyboard before the end of the quest, some bugs may occur with keyb
 ## Smoke timer
 Shows remaining time until fog from Smoke Bomb wipes out.
 
-## Slowmo
-Enables Slow Motion in game. The smaller the distance, the slower the monster. 
-
 ## Misc `Ω`
 * `OSD | FPS` shows framerate counter on upper screen.
 * `OSD | Clock` shows current time (not in-game quest time) on upper screen.
