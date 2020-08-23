@@ -40,7 +40,7 @@ Shows the state of large monsters on the quest.
 * `Sleep` shows amount of Sleep damage needed for the next status proc.
 * `Para` shows amount of Paralyze damage needed for the next status proc.
 * `KO` shows amount of impact damage needed for the next Knock Out.
-* `Last Damadge` show amount of last damadge inflicted to the monster.
+* `Last Damadge` shows amount of last damadge inflicted to the monster.
 This number doesn't update with every hit landed on a monster, so in some cases it will display the summary of damage dealt to the monster.
 
 ## Camera settings `Ω`
@@ -49,14 +49,14 @@ This number doesn't update with every hit landed on a monster, so in some cases 
 Allows to change default Field of View, works only on quests.
 
 ## Misc `Ω`
-* `Unlock 60 FPS` Limits maximum framerate to 60, by default game runs on 30 FPS.
+* `Unlock 60 FPS` limits maximum framerate to 60, by default game runs on 30 FPS.
 
-* `Transmog for all` Allows to fuse all parts of blademaster and gunner armor, not only helms.
+* `Transmog for all` allows to fuse all parts of blademaster and gunner armor, not only helms.
 
-* `Keyboard on quest - not safe` Allows to bring up keybord on quests for typing in chat.\
+* `Keyboard on quest - not safe` allows to bring up keybord on quests for typing in chat.\
 If not close keyboard before the end of the quest, some bugs may occur with keyboard.
 
-* `Smoke timer` Shows remaining time until fog from Smoke Bomb wipes out.
+* `Smoke timer` shows remaining time until fog from Smoke Bomb wipes out.
 
 ## Ś̷̢͌̎̾͆͆̀̔̽́̌́͘͜l̴̞͔̺̔̔̽̏̆͆ơ̵̝̞͔̰̹̫͚̤͔͂̂͗͊w̷̢͖̫̗̰͐̓͗̓̿́̐̾m̷̡̙͈̙̭̮̹͚̩͔̻̹̫̩̈̍̃̃͐́͋̊̔̈́̈́̆͗͝ọ̶̧̢̻͚̞̠̼̳̱͉̻͂̈́̇̀̔̿̚͝ ̵̧͉͕̘̖̖͇̲͚̦͎̲͆
 
