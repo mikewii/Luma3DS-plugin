@@ -15,7 +15,7 @@ Use it if you are not sure which switches to turn on. It will greatly increase f
 * `TripleBufferRenderWait` Dunno
 * `UpsideToTop` rotates image 90 degrees.
 * `YFlip` mirrors top screen horizontally and cause bugs on bottom screen.
-* `ParallelRendering` increase framerate.
+* `ParallelRendering` increases framerate.
 * `FSAA_2D` removes Anti Aliasing in 2D Mode.
 * `FSAA2X` Dunno
 * `FSAA4X` Dunno
