@@ -50,12 +50,9 @@ Allows to change default Field of View, works only on quests.
 
 ## Misc `Ω`
 * `Unlock 60 FPS` limits maximum framerate to 60, by default game runs on 30 FPS.
-
 * `Transmog for all` allows to fuse all parts of blademaster and gunner armor, not only helms.
-
 * `Keyboard on quest - not safe` allows to bring up keybord on quests for typing in chat.\
 If not close keyboard before the end of the quest, some bugs may occur with keyboard.
-
 * `Smoke timer` shows remaining time until fog from Smoke Bomb wipes out.
 
 ## Ś̷̢͌̎̾͆͆̀̔̽́̌́͘͜l̴̞͔̺̔̔̽̏̆͆ơ̵̝̞͔̰̹̫͚̤͔͂̂͗͊w̷̢͖̫̗̰͐̓͗̓̿́̐̾m̷̡̙͈̙̭̮̹͚̩͔̻̹̫̩̈̍̃̃͐́͋̊̔̈́̈́̆͗͝ọ̶̧̢̻͚̞̠̼̳̱͉̻͂̈́̇̀̔̿̚͝ ̵̧͉͕̘̖̖͇̲͚̦͎̲͆
