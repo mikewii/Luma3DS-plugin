@@ -9,4 +9,4 @@ Path 1 given higher priority on loading plugin.
 
 After restart go to rosalina menu, by default <kbd>L+Down+Select</kbd> and set "Plugin Loader" to Enabled. \
 In game press <kbd>Select</kbd> to access plugin menu. \
-Hold <kdb>X</kdb> on game start to reset settings.
+Hold <kbd>X</kbd> on game start to reset settings.
