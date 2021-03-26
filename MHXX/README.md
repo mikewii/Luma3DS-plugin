@@ -42,6 +42,7 @@ Shows the state of large monsters on the quest.
 * `KO` shows amount of impact damage needed for the next Knock Out.
 * `Last Damadge` shows amount of last damadge inflicted to the monster.
 This number doesn't update with every hit landed on a monster, so in some cases it will display the summary of damage dealt to the monster.
+* `Last Damadge Queue` is same as above but shows queue of it, not only damage from last hit.
 
 ## Camera settings `Ω`
 `FOV`\
